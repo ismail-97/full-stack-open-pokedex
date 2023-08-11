@@ -17,3 +17,5 @@ jobs:
         with:
           url: 1257
           follow-redirect: false
+          max-attempts: 3
+
